@@ -1,0 +1,85 @@
+body{
+	background-image: url("https://blog.hdwallsource.com/wp-content/uploads/2014/11/gradient-26052-26737-hd-wallpapers.jpg.png");
+}
+.button{
+	background-color: black;
+	font-weight: bold;
+	color: white;
+	width: 350px;
+	height: 70px;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: none;
+	padding: 20px 20px 20px 20px;
+	margin-left: 480px;
+	margin-top: 250px;
+	position: absolute;
+	border-radius: 10px;
+}
+.button:hover{
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+.shop{
+	width: 120px;
+	margin-left: 615px;
+	margin-top: 520px;
+}
+.add{
+	width: 120px;
+	position: absolute;
+	margin-top: -115px;
+	margin-left: 50px;
+}
+.board{
+	width: 120px;
+	position: absolute;
+	margin-left: 1150px;
+	margin-top: -110px;
+}
+.pro{
+	width: 60px;
+	position: absolute;
+	margin-left: 1190px;
+	margin-top: -625px;
+}
+h2{
+	text-decoration: none;
+	color: black;
+	margin-top: -610px;
+	position: absolute;
+	margin-left: 1250px;
+}
+.ruby{
+	width: 80px;
+	margin-top: -640px;
+	position: absolute;
+	margin-left: 400px;
+}
+.bat{
+	width: 60px;
+	margin-top: -630px;
+	position: absolute;
+	margin-left: 800px;
+}
+.rubyblock{
+	width: 70px;
+	height: 18px;
+	border: 2px solid black;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -610px;
+	position: absolute;
+	margin-left: 470px;
+}
+.batery{
+	width: 70px;
+	height: 18px;
+	border: 2px solid black;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -610px;
+	position: absolute;
+	margin-left: 850px;
+}

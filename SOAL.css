@@ -1,0 +1,130 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+}
+.box1{
+	width: 1250px;
+	border: 2px solid black;	
+	height: 80px;
+	margin-top: 10px;
+	position: absolute;
+	background-color : gold;
+}
+.box2{
+	width: 1250px;
+	border: 2px solid black;	
+	height: 80px;
+	margin-top: 100px;
+	position: absolute;
+	background-color : gold;
+}
+.box3{
+	width: 1250px;
+	border: 2px solid black;	
+	height: 80px;
+	margin-top: 190px;
+	position: absolute;
+	background-color : gold;
+}
+.keluar{
+	border: 2px solid black;
+	width: 190px;
+	height: 70px;
+	margin-left: 30px;
+	margin-top: 300px;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	position: absolute;
+	font-size: 20px;
+	font-family: impact;
+}
+.keluar:hover{
+	background-color: black;
+	color: white;	
+}
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+form.example button:hover {
+  background: #0b7dda;
+}
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.img{
+	width: 75px;
+	height: 75px;
+	margin-top : -78px;
+	position: absolute;
+	margin-left: 1175px;
+}
+.tulisan{
+	margin-left: 10px;
+
+
+}
+.back{
+	margin-top: 5px;
+
+}
+.play{
+ border: 2px solid black;
+ padding: 3px 100px 3px 100px;
+ font-weight: bolder;
+ font-size: 30px;
+ text-decoration: none;
+ border-radius: 5px;
+ color: black;
+ margin-left: 700px;
+ position: absolute;
+ margin-top: -65px;
+}
+.play2{
+ border: 2px solid black;
+ padding: 3px 100px 3px 100px;
+ font-size: 30px;
+ text-decoration: none;
+ border-radius: 5px;
+ color: black;
+ font-weight: bolder;
+ margin-left: 700px;
+ position: absolute;
+ margin-top: -65px;
+}
+.play3{
+ border: 2px solid black;
+ padding: 3px 100px 3px 100px;
+ font-size: 30px;
+ font-weight: bolder;
+ text-decoration: none;
+ border-radius: 5px;
+ color: black;
+ margin-left: 700px;
+ position: absolute;
+ margin-top: -65px;
+}
+.play:hover, .play2:hover, .play3:hover{
+ background-color: white;
+}

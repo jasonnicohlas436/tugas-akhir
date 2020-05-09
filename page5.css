@@ -1,0 +1,168 @@
+	body{
+		position: fixed;
+		background-color: 
+	}
+	h1{
+		font-family: impact;
+		position: absolute;
+		margin-left: 600px;	
+	}
+	.kotak1{
+		border: 2px solid black;
+		border-radius: 5px;
+		margin-top: 80px;
+		margin-left: 250px;
+		text-decoration: none;
+		background-color: gold;
+		font-family: impact;
+		word-spacing: 20px;
+		width: 900px;
+	}
+	.kotak1 h1{
+		margin-left: 90px;
+		margin-top: -60px;
+	}
+	.kotak1 h2{
+		font-size: 32px;
+		margin-left: 270px;
+		margin-top: -60px;
+	}
+	.kotak1 h3{
+		font-size: 32px;
+		margin-left: 570px;
+		margin-top: -65px;
+	}
+	.first{
+		font-size: 28px;
+		text-decoration: none;
+		color: black;
+		float: right;
+		margin-top: -76px;
+		margin-right: 20px;
+		padding: 10px;
+	}
+	.gambar1{
+		width: 80px;
+		height: 80px;
+		margin-top: 2px;
+		font-size: 20px;
+	}
+	.keluar{
+		font-family: impact;
+		border: 2px solid black;
+		position: absolute;
+		width: 150px;
+		height: 44px;
+		margin-left: 23px;
+		margin-top: 20px;
+		font-size: 35px;
+		text-decoration: none;
+		text-align: center;
+		color: black;
+	}
+	.keluar:hover{
+		background-color: black;
+		color: white;
+	}
+	.kotak2{
+		border: 2px solid black;
+		border-radius: 5px;
+		margin-top: 30px;
+		margin-left: 250px;
+		text-decoration: none;
+		background-color: gold;
+		font-family: impact;
+		word-spacing: 20px;
+		width: 900px;
+	}
+	.kotak2 h1{
+		margin-left: 90px;
+		margin-top: -60px;
+	}
+	.kotak2 h2{
+		font-size: 32px;
+		margin-left: 270px;
+		margin-top: -60px;
+	}
+	.kotak2 h3{
+		font-size: 32px;
+		margin-left: 570px;
+		margin-top: -65px;
+	}
+	.second{
+		font-size: 28px;
+		text-decoration: none;
+		color: black;
+		float: right;
+		margin-top: -76px;
+		margin-right: 20px;
+		padding: 10px;
+	}
+	.kotak3{
+		border: 2px solid black;
+		border-radius: 5px;
+		margin-top: 30px;
+		margin-left: 250px;
+		text-decoration: none;
+		background-color: gold;
+		font-family: impact;
+		word-spacing: 20px;
+		width: 900px;
+	}
+	.kotak3 h1{
+		margin-left: 90px;
+		margin-top: -60px;
+	}
+	.kotak3 h2{
+		font-size: 32px;
+		margin-left: 270px;
+		margin-top: -60px;
+	}
+	.kotak3 h3{
+		font-size: 32px;
+		margin-left: 570px;
+		margin-top: -65px;
+	}
+	.third{
+		font-size: 28px;
+		text-decoration: none;
+		color: black;
+		float: right;
+		margin-top: -76px;
+		margin-right: 20px;
+		padding: 10px;
+	}
+	.kotak4{
+		border: 2px solid black;
+		border-radius: 5px;
+		margin-top: 30px;
+		margin-left: 250px;
+		text-decoration: none;
+		background-color: gold;
+		font-family: impact;
+		word-spacing: 20px;
+		width: 900px;
+	}
+	.kotak4 h1{
+		margin-left: 90px;
+		margin-top: -60px;
+	}
+	.kotak4 h2{
+		font-size: 32px;
+		margin-left: 270px;
+		margin-top: -60px;
+	}
+	.kotak4 h3{
+		font-size: 32px;
+		margin-left: 570px;
+		margin-top: -65px;
+	}
+	.fourth{
+		font-size: 28px;
+		text-decoration: none;
+		color: black;
+		float: right;
+		margin-top: -76px;
+		margin-right: 20px;
+		padding: 10px;
+	}
